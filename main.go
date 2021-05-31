@@ -9,7 +9,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/justzip/flags"
+	"github.com/Zyl9393/justzip/flags"
 )
 
 func main() {

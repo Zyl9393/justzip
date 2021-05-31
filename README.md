@@ -7,7 +7,7 @@ Zip file or folder with Linux-compatible path separators. Made for packing Blend
 Install Go, then run:
 
 ```bash
-go get github.com/Zyl9393/justzip
+go install github.com/Zyl9393/justzip@latest
 ```
 
 ### Usage
